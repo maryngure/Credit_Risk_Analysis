@@ -49,7 +49,13 @@ The exploratory data analysis was conducted to identify statistically relevant b
 - Urban regions account for higher loan volumes, while certain locations show concentrated default behavior.
 
 ### **Overall Insight**
-Credit risk is driven by the interaction of borrower financial capacity, loan structure, and historical credit behavior. Features such as credit utilization, debt-to-income ratio, loan grade, employment length, and past delinquencies exhibit strong predictive relevance and are well-suited for inclusion in supervised credit risk models.
+The interaction of borrower financial capacity, loan structure, and historical credit behavior drives credit risk. Features such as credit utilization, debt-to-income ratio, loan grade, employment length, and past delinquencies exhibit strong predictive relevance. They are well-suited for inclusion in supervised credit risk models.
+
+## **Tools & Technologies used**
+- Python
+- Pandas, Numpy, Seaborn, Matplotlib
+- Jupyter Notebook
+- Claude AI
 
 
 All work was completed in **Jupyter Notebook**, and visualizations are included in the repository.
