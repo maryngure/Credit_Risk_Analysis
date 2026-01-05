@@ -55,7 +55,7 @@ The interaction of borrower financial capacity, loan structure, and historical c
 - Python
 - Pandas, Numpy, Seaborn, Matplotlib
 - Jupyter Notebook
-- Claude AI
+- Claude 
 
 
 All work was completed in **Jupyter Notebook**, and visualizations are included in the repository.
